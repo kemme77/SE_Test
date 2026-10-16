@@ -1,6 +1,6 @@
 ## Eigenschaften
--toll
--großartig
+- toll
+- großartig
 - kleiner Lümmel
 
 ## Aussehen
